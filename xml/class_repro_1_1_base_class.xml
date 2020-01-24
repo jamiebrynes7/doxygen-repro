@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.16">
+  <compounddef id="class_repro_1_1_base_class" kind="class" language="C#" prot="public">
+    <compoundname>Repro::BaseClass</compoundname>
+    <derivedcompoundref refid="class_repro_1_1_child_class" prot="public" virt="non-virtual">Repro.ChildClass</derivedcompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_repro_1_1_base_class_1a099a3092c0b3f54b0762e5b8f82eb6d1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Repro.BaseClass.BaseClass</definition>
+        <argsstring>(string foo, string bar)</argsstring>
+        <name>BaseClass</name>
+        <param>
+          <type>string</type>
+          <declname>foo</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>bar</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Repro/Class1.cs" line="14" column="16" bodyfile="Repro/Class1.cs" bodystart="14" bodyend="14"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Repro.ChildClass</label>
+        <link refid="class_repro_1_1_child_class"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Repro.BaseClass</label>
+        <link refid="class_repro_1_1_base_class"/>
+      </node>
+    </inheritancegraph>
+    <location file="Repro/Class1.cs" line="13" column="1" bodyfile="Repro/Class1.cs" bodystart="12" bodyend="15"/>
+    <listofallmembers>
+      <member refid="class_repro_1_1_base_class_1a099a3092c0b3f54b0762e5b8f82eb6d1" prot="public" virt="non-virtual"><scope>Repro::BaseClass</scope><name>BaseClass</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

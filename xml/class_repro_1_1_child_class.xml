@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.16">
+  <compounddef id="class_repro_1_1_child_class" kind="class" language="C#" prot="public">
+    <compoundname>Repro::ChildClass</compoundname>
+    <basecompoundref refid="class_repro_1_1_base_class" prot="public" virt="non-virtual">Repro.BaseClass</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_repro_1_1_child_class_1af642c0f5fa037d1f41cd0ff7a0747304" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Repro.ChildClass.ChildClass</definition>
+        <argsstring>()</argsstring>
+        <name>ChildClass</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Repro/Class1.cs" line="7" column="16" bodyfile="Repro/Class1.cs" bodystart="7" bodyend="7"/>
+      </memberdef>
+      <memberdef kind="function" id="class_repro_1_1_child_class_1adcfc18489b485b367b385ab9f30ea5ee" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Repro.ChildClass.ChildClass????</definition>
+        <argsstring>(string foo, string bar)</argsstring>
+        <name>ChildClass????</name>
+        <param>
+          <type>string</type>
+          <declname>foo</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>bar</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Repro/Class1.cs" line="9" column="16" bodyfile="Repro/Class1.cs" bodystart="9" bodyend="9"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>BaseClass</label>
+        <link refid="class_repro_1_1_base_class"/>
+      </node>
+      <node id="1">
+        <label>Repro.ChildClass</label>
+        <link refid="class_repro_1_1_child_class"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>BaseClass</label>
+        <link refid="class_repro_1_1_base_class"/>
+      </node>
+      <node id="1">
+        <label>Repro.ChildClass</label>
+        <link refid="class_repro_1_1_child_class"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="Repro/Class1.cs" line="6" column="1" bodyfile="Repro/Class1.cs" bodystart="5" bodyend="10"/>
+    <listofallmembers>
+      <member refid="class_repro_1_1_base_class_1a099a3092c0b3f54b0762e5b8f82eb6d1" prot="public" virt="non-virtual"><scope>Repro::ChildClass</scope><name>BaseClass</name></member>
+      <member refid="class_repro_1_1_child_class_1af642c0f5fa037d1f41cd0ff7a0747304" prot="public" virt="non-virtual"><scope>Repro::ChildClass</scope><name>ChildClass</name></member>
+      <member refid="class_repro_1_1_child_class_1adcfc18489b485b367b385ab9f30ea5ee" prot="public" virt="non-virtual"><scope>Repro::ChildClass</scope><name>ChildClass????</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

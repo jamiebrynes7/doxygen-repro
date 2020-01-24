@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.16">
+  <compounddef id="dir_33883cbadedda046ae1a3033dedd4124" kind="dir">
+    <compoundname>Repro</compoundname>
+    <innerdir refid="dir_8cb0e539d81573ca291e2c3c5e25ad76">Repro/obj</innerdir>
+    <innerfile refid="_class1_8cs">Class1.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Repro/"/>
+  </compounddef>
+</doxygen>

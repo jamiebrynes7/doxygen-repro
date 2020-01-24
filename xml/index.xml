@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.16">
+  <compound refid="class_repro_1_1_base_class" kind="class"><name>Repro::BaseClass</name>
+    <member refid="class_repro_1_1_base_class_1a099a3092c0b3f54b0762e5b8f82eb6d1" kind="function"><name>BaseClass</name></member>
+  </compound>
+  <compound refid="class_repro_1_1_child_class" kind="class"><name>Repro::ChildClass</name>
+    <member refid="class_repro_1_1_child_class_1af642c0f5fa037d1f41cd0ff7a0747304" kind="function"><name>ChildClass</name></member>
+    <member refid="class_repro_1_1_child_class_1adcfc18489b485b367b385ab9f30ea5ee" kind="function"><name>ChildClass????</name></member>
+  </compound>
+  <compound refid="namespace_repro" kind="namespace"><name>Repro</name>
+  </compound>
+  <compound refid="namespace_system" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="_class1_8cs" kind="file"><name>Class1.cs</name>
+  </compound>
+  <compound refid="_repro_8_assembly_info_8cs" kind="file"><name>Repro.AssemblyInfo.cs</name>
+  </compound>
+  <compound refid="dir_232f878be34c532b3bf9230abcf5da38" kind="dir"><name>Repro/obj/Debug</name>
+  </compound>
+  <compound refid="dir_f9a7b4dfbd9904cb9cf863ebe6429315" kind="dir"><name>Repro/obj/Debug/netcoreapp3.0</name>
+  </compound>
+  <compound refid="dir_8cb0e539d81573ca291e2c3c5e25ad76" kind="dir"><name>Repro/obj</name>
+  </compound>
+  <compound refid="dir_33883cbadedda046ae1a3033dedd4124" kind="dir"><name>Repro</name>
+  </compound>
+</doxygenindex>

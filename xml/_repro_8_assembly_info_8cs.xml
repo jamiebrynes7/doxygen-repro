@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.16">
+  <compounddef id="_repro_8_assembly_info_8cs" kind="file" language="C++">
+    <compoundname>Repro.AssemblyInfo.cs</compoundname>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Repro/obj/Debug/netcoreapp3.0/Repro.AssemblyInfo.cs"/>
+  </compounddef>
+</doxygen>

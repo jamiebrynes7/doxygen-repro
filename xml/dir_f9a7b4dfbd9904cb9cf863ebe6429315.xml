@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.16">
+  <compounddef id="dir_f9a7b4dfbd9904cb9cf863ebe6429315" kind="dir">
+    <compoundname>Repro/obj/Debug/netcoreapp3.0</compoundname>
+    <innerfile refid="_repro_8_assembly_info_8cs">Repro.AssemblyInfo.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Repro/obj/Debug/netcoreapp3.0/"/>
+  </compounddef>
+</doxygen>

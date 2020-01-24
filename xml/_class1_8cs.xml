@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.16">
+  <compounddef id="_class1_8cs" kind="file" language="C#">
+    <compoundname>Class1.cs</compoundname>
+    <innerclass refid="class_repro_1_1_child_class" prot="public">Repro::ChildClass</innerclass>
+    <innerclass refid="class_repro_1_1_base_class" prot="public">Repro::BaseClass</innerclass>
+    <innernamespace refid="namespace_repro">Repro</innernamespace>
+    <innernamespace refid="namespace_system">System</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Repro/Class1.cs"/>
+  </compounddef>
+</doxygen>
